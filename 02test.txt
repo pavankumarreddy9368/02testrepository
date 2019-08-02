@@ -1,3 +1,6 @@
 i am creating test repository to test all necessary commands
 adding line1
 adding line2
+adding line3
+adding line4
+
